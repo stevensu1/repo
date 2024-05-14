@@ -5,7 +5,6 @@ import com.zaxxer.hikari.HikariDataSource;
 import org.apache.ibatis.logging.stdout.StdOutImpl;
 
 public class Util {
-
     public static <T> T getMapper(Class<T> type) {
 
         HikariDataSource dataSource = new HikariDataSource();
