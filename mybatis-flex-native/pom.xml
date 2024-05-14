@@ -15,7 +15,6 @@
         <version.keycloak>9.0.3.redhat-00002</version.keycloak>
         <version.jboss-ejb-api>1.0.0.Final</version.jboss-ejb-api>
     </properties>
-
     <dependencyManagement>
         <dependencies>
             <dependency>
